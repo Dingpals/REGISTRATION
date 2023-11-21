@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"SAGRADOREGISTRATION","l":"REGISTRATION"},{"p":"com.mycompany.sagrado","l":"SAGRADO"}];updateSearchResults();

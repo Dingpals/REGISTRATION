@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/WS/Documents/NetBeansProjects/SAGRADO/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/WS/Documents/NetBeansProjects/SAGRADO/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SAGRADO 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'SAGRADO 1.0-SNAPSHOT API'
+com.mycompany.sagrado
+SAGRADOREGISTRATION
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\src\main\java = 1700545333086
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\allclasses-index.html = 1700548650575
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\allpackages-index.html = 1700548650575
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\copy.svg = 1700548650622
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\element-list = 1700548650450
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\help-doc.html = 1700548650607
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\index-all.html = 1700548650591
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\index.html = 1700548650575
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\member-search-index.js = 1700548650591
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\module-search-index.js = 1700548650591
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\overview-summary.html = 1700548650607
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\overview-tree.html = 1700548650560
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\package-search-index.js = 1700548650591
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\script.js = 1700548650622
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\search-page.js = 1700548650622
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\search.html = 1700548650607
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\search.js = 1700548650622
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\serialized-form.html = 1700548650528
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\stylesheet.css = 1700548650607
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\tag-search-index.js = 1700548650591
+C:\Users\WS\Documents\NetBeansProjects\SAGRADO\target\site\apidocs\type-search-index.js = 1700548650591
